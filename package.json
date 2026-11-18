@@ -1,0 +1,15 @@
+
+{
+  "name": "backend_assignment",
+  "version": "1.0.0",
+  "description": "Backend development assignment using Node.js, Express and MongoDB",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
